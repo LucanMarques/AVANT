@@ -6,18 +6,58 @@ Projeto baseado na metodologia ágil SCRUM, procurando desenvolver a Proatividad
 
 # Índice
 
-* [Projeto](#projeto-template)
-* [Equipe](#equipe)
-* [Objetivo do Projeto](#objetivo-do-projeto)
-* [Sprints](#Sprints)
-* [Burndown](#Burndown)
+* [Objetivo do Projeto](#projeto-template)
+* [Funcionabilidade e Registro das Sprints](#funcionalidades-e-registros--das-sprints)
 * [Backlog do produto](#Backlog-do-produto)
-* [Funcionalidades e registros (vídeos e apresnetações) das sprints](#uncionalidades-e-registros-(vídeos-e-apresnetações)-das-sprints)
 * [Competências desenvolvidas](#competências-desenvolvidas)
+* [Autores](#autores)
+  
 
 
-# Projeto (API) 
-Descrição da demanda realizada pelo parceiro acadêmico.
+# Projeto (FATEC API) 
+Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focado no desenvolvimento de competências e fundamentada nos pilares de aprendizado com problemas reais (RPBL), validação externa e mentalidade ágil.
+
+Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
+
+## Tecnologias Utilizadas
+
+* Jira Software
+* Power BI
+* Microsoft office
+* GitHub
+
+# Backlog do produto
+
+## Sprint 1. Concepção
+- [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
+- [x] Visualização da estruturação do Projeto (Github, Jira Software, Slack).
+- [x] Visualização de uma prévia dos dados filtrado que serão utilizados nas as próximas sprints. 
+- [x] Conhecer todos os integrantes da equipe (nome, contato, foto, função no projeto).
+## Sprint 2. Desenvolvimento do Projeto
+- [X] Dashboard em Power Bi com uma analise prévia.
+- [X] Quais cargas tem origem no Vale do Paraíba (volume / valor / Curva ABC das cargas).
+- [X] Definir quais informações podem ser utilizadas para ser gerado um gráfico (Exemplo: valor FOB, Peso, volume).
+## Sprint 3 . Implementação
+- [X] Dashboard no Power Bi com as informações da Sprint 2
+- [X] Analise dos principais destinos das exportações do Vale do Paraíba (distância / volume de cargas)
+- [X] Comparativo dos custos entre o SJK / GRU / VC (utilizando os principais destinos - em Excel)
+- [X] Uma  prévia da documentação/relatório do projeto
+## Sprint 4. Operacionalização
+- [X] Dashboard com todas informações analisadas, sendo possível visualizar como aumentar o volume de cargas movimentadas no SJK.
+- [X] Acesso a documentação completa do projeto
+# Competências desenvolvidas
+
+## Hard Skill (saber tecnológico)
+<details>
+<summary>Hard Skills desenvolvidas</summary>
+  
+| Tecnologia/Metodologia | Classificação |
+| ---------------------- | ------------- |
+| GitHub | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Gestão de Projetos | ★ ★ ★ ★ ★ ★ ★ ★ ★ ☆ |
+| Scrum Master | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Prodct Owner | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
+| Markdown | ★ ★ ★ ★ ★ ★ ★ ★ ★ ★ |
 
 # Equipe
 |    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
