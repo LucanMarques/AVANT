@@ -19,7 +19,7 @@ Projeto pedagógico alicerçado na Metodologia API para ensino-aprendizado focad
 
 Uso de estratégias para entender o problema, conceber uma solução viável ao desenvolver e implementar o MVP seguido de sua operação (CDIO). 
 
-## Tecnologias Utilizadas
+## Tecnologias Utilizadas 
 
 * Jira Software
 * Power BI
