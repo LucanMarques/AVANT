@@ -26,7 +26,7 @@ Uso de estratégias para entender o problema, conceber uma solução viável ao 
 * Microsoft office
 * GitHub
 
-# Backlog do produto
+## Backlog do produto
 
 ## Sprint 1. Concepção
 - [x] Backlog do produto e do projeto com uma prévia de todas as atividades.
