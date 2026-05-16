@@ -213,6 +213,16 @@ ACIDENTES POR DIA DA SEMANA:
 
 
 
+
+
+
+
+
+
+
+
+
+
 ACIDENTES POR HORÁRIO:
 
 <img width="633" height="405" alt="image" src="https://github.com/user-attachments/assets/4f045361-3a41-4490-88fa-12d24e65db00" />
