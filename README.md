@@ -193,17 +193,25 @@ RANKING DE LOCALIDADES DE MAIOR INCIDÊNCIA DE ACIDENTES:
 
 <img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
 
+
+
 ANÁLISE DE PARETO: PRINCIPAIS CAUSAS DE ACIDENTES:
 
 <img width="575" height="337" alt="image" src="https://github.com/user-attachments/assets/c540d37f-370b-4b85-a309-056ca7004967" />
+
+
 
 COMPOSIÇÃO POR SEVERIDADE DOS ACIDENTES:
 
 <img width="581" height="331" alt="image" src="https://github.com/user-attachments/assets/c463198b-423a-49cd-ae08-45410491edd5" />
 
+
+
 ACIDENTES POR DIA DA SEMANA:
 
 <img width="602" height="365" alt="image" src="https://github.com/user-attachments/assets/d76e0493-5382-42a6-a7be-bdb46efaa13d" />
+
+
 
 ACIDENTES POR HORÁRIO:
 
