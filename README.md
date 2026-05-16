@@ -137,16 +137,34 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 # Figura 1: Python 
 
-<img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/282e7d38-f05d-4c1b-815f-b76438af0860" />
-
 Importação da biblioteca Pandas para o tratamento dos dados CSV
+<img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/91c1847b-808a-4320-9a48-4c7037576511" />
 
 
 # Figura 2: Python 
-<img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/921280ce-a578-4dc0-bb74-7650cfd44ab1" />
 
 Determinando o cainho de acesso para cada pasta com os arquivos a serem utilizados
+<img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/921280ce-a578-4dc0-bb74-7650cfd44ab1" />
+
+
 
 # Figura 3: Python 
-<img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/069f26ce-3682-4260-8beb-25a87bb2abbf" />
+
+Criando o acesso para que o Python entenda quais arquivos a serem acessados
+<img width="945" height="452" alt="image" src="https://github.com/user-attachments/assets/fa57b420-c6eb-42b4-af0c-2d46780e5d4b" />
+
+
+
+# Figura 4: Python 
+
+Realizando a leitura dos arquivos CSV através do Python
+<img width="945" height="359" alt="image" src="https://github.com/user-attachments/assets/dad1d65d-d37c-47d4-bdb2-6d1a31633f9b" />
+
+
+
+# Figura 5: Python
+Conectando os arquivos de 2020 a 2025
+<img width="945" height="53" alt="image" src="https://github.com/user-attachments/assets/dccc8d8b-2fa0-4001-8bc9-d281a459dc02" />
+
+
 
