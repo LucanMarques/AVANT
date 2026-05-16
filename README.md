@@ -179,7 +179,7 @@ Verificando um resumo do conteúdo dos dados
 Exportando os arquivos concatenados para uma pasta dedicada no Google Drive
 <img width="945" height="121" alt="image" src="https://github.com/user-attachments/assets/bd585c50-34f3-431d-977b-b5d2d5cbe4a8" />
 
-## DASHBOARD
+# DASHBOARD
 
 
 
