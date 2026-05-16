@@ -135,5 +135,8 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 </details>
 
+# Figura 1: Python 
+
+<img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/282e7d38-f05d-4c1b-815f-b76438af0860" />
 
 
