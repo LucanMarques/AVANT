@@ -139,4 +139,10 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 <img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/282e7d38-f05d-4c1b-815f-b76438af0860" />
 
+Importação da biblioteca Pandas para o tratamento dos dados CSV
 
+
+# Figura 2: Python 
+<img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/921280ce-a578-4dc0-bb74-7650cfd44ab1" />
+
+Determinando o cainho de acesso para cada pasta com os arquivos a serem utilizados
