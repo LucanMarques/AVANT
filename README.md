@@ -137,27 +137,27 @@ Além disso, busca-se fornecer informações que auxiliem a tomada de decisão p
 
 # Figura 1: Python 
 
-Importação da biblioteca Pandas para o tratamento dos dados CSV
+Importação da biblioteca Pandas para o tratamento dos dados CSV:
 
 <img width="945" height="606" alt="image" src="https://github.com/user-attachments/assets/91c1847b-808a-4320-9a48-4c7037576511" />
 
 # Figura 2: Python 
 
-Determinando o cainho de acesso para cada pasta com os arquivos a serem utilizados
+Determinando o cainho de acesso para cada pasta com os arquivos a serem utilizados:
 
 <img width="945" height="279" alt="image" src="https://github.com/user-attachments/assets/921280ce-a578-4dc0-bb74-7650cfd44ab1" />
 
 
 # Figura 3: Python 
 
-Criando o acesso para que o Python entenda quais arquivos a serem acessados
+Criando o acesso para que o Python entenda quais arquivos a serem acessados:
 
 <img width="945" height="452" alt="image" src="https://github.com/user-attachments/assets/fa57b420-c6eb-42b4-af0c-2d46780e5d4b" />
 
 
 # Figura 4: Python 
 
-Realizando a leitura dos arquivos CSV através do Python
+Realizando a leitura dos arquivos CSV através do Python:
 
 <img width="945" height="359" alt="image" src="https://github.com/user-attachments/assets/dad1d65d-d37c-47d4-bdb2-6d1a31633f9b" />
 
@@ -171,27 +171,43 @@ Conectando os arquivos de 2020 a 2025
 
 # Figura 6: Python
 
-Identificando as informações dos arquivos, verificando a informação de cada coluna da base de dados
+Identificando as informações dos arquivos, verificando a informação de cada coluna da base de dados:
 
 <img width="753" height="1084" alt="image" src="https://github.com/user-attachments/assets/43223d29-a9d5-4ae1-80af-b4cce91bd17f" />
 
 # Figura 7: Python
 
-Verificando um resumo do conteúdo dos dados
+Verificando um resumo do conteúdo dos dados:
 
 <img width="945" height="175" alt="image" src="https://github.com/user-attachments/assets/c5671bb6-98f0-4506-b594-502691b02b40" />
 
 # Figura 8: Python
 
-Exportando os arquivos concatenados para uma pasta dedicada no Google Drive
+Exportando os arquivos concatenados para uma pasta dedicada no Google Drive:
 
 <img width="945" height="121" alt="image" src="https://github.com/user-attachments/assets/bd585c50-34f3-431d-977b-b5d2d5cbe4a8" />
 
 #  Power BI
 
-RANKING DE LOCALIDADES DE MAIOR INCIDÊNCIA DE ACIDENTES
+RANKING DE LOCALIDADES DE MAIOR INCIDÊNCIA DE ACIDENTES:
 
 <img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
+
+ANÁLISE DE PARETO: PRINCIPAIS CAUSAS DE ACIDENTES:
+
+<img width="575" height="337" alt="image" src="https://github.com/user-attachments/assets/c540d37f-370b-4b85-a309-056ca7004967" />
+
+COMPOSIÇÃO POR SEVERIDADE DOS ACIDENTES:
+
+<img width="581" height="331" alt="image" src="https://github.com/user-attachments/assets/c463198b-423a-49cd-ae08-45410491edd5" />
+
+ACIDENTES POR DIA DA SEMANA:
+
+<img width="602" height="365" alt="image" src="https://github.com/user-attachments/assets/d76e0493-5382-42a6-a7be-bdb46efaa13d" />
+
+ACIDENTES POR HORÁRIO:
+
+<img width="633" height="405" alt="image" src="https://github.com/user-attachments/assets/4f045361-3a41-4490-88fa-12d24e65db00" />
 
 
 
