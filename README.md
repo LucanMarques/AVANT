@@ -192,7 +192,7 @@ Exportando os arquivos concatenados para uma pasta dedicada no Google Drive:
 RANKING DE LOCALIDADES DE MAIOR INCIDÊNCIA DE ACIDENTES:
 
 <img width="578" height="283" alt="image" src="https://github.com/user-attachments/assets/21548e30-8f7b-4d29-89c6-7cfe1aee4f05" />
-
+-m
 
 
 ANÁLISE DE PARETO: PRINCIPAIS CAUSAS DE ACIDENTES:
