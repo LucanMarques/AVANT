@@ -196,6 +196,7 @@ RANKING DE LOCALIDADES DE MAIOR INCIDÊNCIA DE ACIDENTES:
 
 
 
+                                                                                                                                                                                                                                                                            
 
 ANÁLISE DE PARETO: PRINCIPAIS CAUSAS DE ACIDENTES:
 
@@ -212,17 +213,6 @@ COMPOSIÇÃO POR SEVERIDADE DOS ACIDENTES:
 ACIDENTES POR DIA DA SEMANA:
 
 <img width="602" height="365" alt="image" src="https://github.com/user-attachments/assets/d76e0493-5382-42a6-a7be-bdb46efaa13d" />
-
-
-
-
-
-
-
-
-
-
-
 
 
 ACIDENTES POR HORÁRIO:
